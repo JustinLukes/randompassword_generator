@@ -4,10 +4,6 @@ from time import sleep
 print("Downloading Libraries")
 print("Installing Colorama")
 os.system(f"{sys.executable} -m pip install colorama")
-print("Installing String")
-os.system(f"{sys.executable} -m pip install string")
-print("Installing Random")
-os.system(f"{sys.executable} -m pip install random")
 
 import string, random
 from colorama import Fore,Style,Back,init
