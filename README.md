@@ -1,2 +1,2 @@
-# randompassword_generator
-Password Generator
+# Password Generator
+Školní projekt
