@@ -1,2 +1,5 @@
 # Password Generator
-Školní projekt
+School Project
+
+
+Needed Colorama Library to run
